@@ -24,4 +24,8 @@ In this challenge, I used the concepts I had learnt to complete the activity. Th
 
 ## Screenshots
 
+![screenshot1](./starter/Financial%20analysis.JPG)
+
+![screenshot2](./starter/htmldisplay.JPG)
+
 ## Link to deployed app
