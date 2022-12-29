@@ -30,4 +30,4 @@ In this challenge, I used the concepts I had learnt to complete the activity. Th
 
 ## Link to deployed app
 
-[Link]()
+[Link](https://princeolubari.github.io/Console-Finances/)
