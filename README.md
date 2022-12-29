@@ -31,3 +31,9 @@ In this challenge, I used the concepts I had learnt to complete the activity. Th
 ## Link to deployed app
 
 [Link](https://princeolubari.github.io/Console-Finances/)
+
+## Credits
+
+TA - Andrew explained some concepts with 2D array and push.
+W3School practiced some exercises to better understand arrays
+Tutor Chris --- Booked a session to explain key concepts about iteration in arrays
